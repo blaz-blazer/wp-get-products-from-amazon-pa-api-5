@@ -1,0 +1,26 @@
+.gpfa-admin-info__link {
+  font-size: .8rem;
+  font-weight: bold;
+  color: white;
+  background-color: #18bb8d;
+  padding: .5rem;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-right: .5rem;
+}
+
+.gpfa-admin-info__link:hover, .gpfa-admin-info__link:focus, .gpfa-admin-info__link:visited {
+  font-size: .8rem;
+  font-weight: bold;
+  color: white;
+  background-color: #0aa97c;
+  padding: .5rem;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-right: .5rem;
+}
+
+.gpfa-admin-info__text {
+  font-size: .8rem;
+  font-style: italic;
+}
